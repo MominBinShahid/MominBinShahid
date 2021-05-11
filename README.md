@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on closed-source product known as Securiti.ai
+- 🌱 I’m currently learning how to start contributing in Open Source Softwares, any help in this regards is appreciated
+- 👯 I’m looking to collaborate on Web projects as of now centering around JavaScript
+- 🤔 I’m looking for help with understanding and starting to collaborate on github
+- 💬 Ask me about any stuff you are interested in (Specifically Web Development and JavaScript)
+- 📫 How to reach me: __@MominBinShahid__ or Google __MominBinShahid__
+- 😄 Pronouns: nerd, boring
+- ⚡ Fun fact: I was planning this move since I started my programming careers 3 years back
+
 <!--
 **MominBinShahid/MominBinShahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
