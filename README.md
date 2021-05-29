@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Momin Bin Shahid 👨‍💻</h1>
-<h3 align="center">A curious software engineer</h3>
+<h3 align="center">A curious software engineer ⎔</h3>
 
 - 🔭 I’m currently working on **a closed-source product known as [Securiti.ai](https://Securiti.ai)**
 
