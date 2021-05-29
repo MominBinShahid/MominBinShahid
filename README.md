@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **MominBinShahid@gmail.com**
 
-- 📄 Know about my experiences [https://MominBinShahid.github.io](https://MominBinShahid.github.io)
+- 📄 Know about my experiences [https://MominBinShahid.github.io/resume](https://MominBinShahid.github.io/resume)
 
 - ⚡ Fun fact **I think I am funny**
 
