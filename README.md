@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Javascript, web development, design patterns, best practices and frameworks including Node, React, Vue, Angular OR anything else you are interested in and curious about**
 
-- 📫 How to reach me **MominBinShahid@gmail.com**
+- 📫 How to reach me **MominBinShahid@gmail.com** or visit [MominBinShahid.github.io](https://MominBinShahid.github.io)
 
 - 📄 Know about my experiences [MominBinShahid.github.io/resume](https://MominBinShahid.github.io/resume)
 
