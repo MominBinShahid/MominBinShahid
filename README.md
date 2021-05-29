@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Momin Bin Shahid 👨‍💻</h1>
 <h3 align="center">A curious software engineer</h3>
 
-- 🔭 I’m currently working on **a closed-source product known as [Securiti.ai](Securiti.ai)**
+- 🔭 I’m currently working on **a closed-source product known as [Securiti.ai](https://Securiti.ai)**
 
 - 🌱 I’m currently learning **how to start contributing in Open Source Softwares, any help in this regard is appreciated**
 
