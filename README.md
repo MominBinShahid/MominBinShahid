@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Momin Bin Shahid 👨‍💻</h1>
 <h3 align="center">A curious software engineer ⎔</h3>
 
-<br/>
-
 ![link to MominBinShahid.github.io](./banner-dark.png)
 
 - 🔭 I’m currently working on **a closed-source product known as [Securiti.ai](https://Securiti.ai)**
@@ -47,6 +45,4 @@
 
 <br/>
 
-
-#### 👏 Thanks to [Canva](https://canva.com) for cover/banner, [Shields.io](https://shields.io) for badges, [SimpleIcons](https://simpleicons.org/) for icons and [rahuldkjain](https://rahuldkjain.github.io/gh-profile-readme-generator/) for github profile generator 🚀
-
+##### 👏 Thanks to [Canva](https://canva.com) for cover/banner, [Shields.io](https://shields.io) for badges, [SimpleIcons](https://simpleicons.org/) for icons and [rahuldkjain](https://rahuldkjain.github.io/gh-profile-readme-generator/) for github profile generator 🚀
