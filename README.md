@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Momin Bin Shahid 👨‍💻</h1>
 <h3 align="center">A curious software engineer ⎔</h3>
 
+<br/>
+
+![link to MominBinShahid.github.io](./banner-dark.png)
+
 - 🔭 I’m currently working on **a closed-source product known as [Securiti.ai](https://Securiti.ai)**
 
 - 🌱 I’m currently learning **how to start contributing in Open Source Softwares, any help in this regard is appreciated**
@@ -11,9 +15,9 @@
 
 - 💬 Ask me about **Javascript, web development, design patterns, best practices and frameworks including Node, React, Vue, Angular OR anything else you are interested in and curious about**
 
-- 📫 How to reach me **[MominBinShahid@gmail.com](mailto:MominBinShahid@gmail.com) | [MominBinShahid.github.io](https://MominBinShahid.github.io)** 
+- 📫 How to reach me **[MominBinShahid@gmail.com](mailto:MominBinShahid@gmail.com) | [MominBinShahid.github.io](https://MominBinShahid.github.io)**
 
-- 📄 Know about my experiences **[MominBinShahid.github.io/resume](https://MominBinShahid.github.io/resume)** 
+- 📄 Know about my experiences **[MominBinShahid.github.io/resume](https://MominBinShahid.github.io/resume)**
 
 - ⚡ Fun fact **I think I am funny**
 
@@ -21,6 +25,7 @@
 <!-- --- -->
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/mominbinshahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/twitter.svg" alt="mominbinshahid" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mominbinshahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/linked-in-alt.svg" alt="mominbinshahid" height="30" width="40" /></a>
@@ -30,7 +35,9 @@
 <a href="https://dev.to/mominbinshahid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mominbinshahid" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <a href="https://twitter.com/mominbinshahid" target="blank"><img src="https://img.shields.io/twitter/follow/mominbinshahid?logo=twitter&style=for-the-badge" alt="mominbinshahid" /></a> </p>
+<p align="left"> <a href="mailto:MominBinShahid@gmail.com" target="blank"><img src="https://img.shields.io/static/v1?label=MominBinShahid&labelColor=antiquewhite&message=@gmail.com&color=%23EA4335&logo=gmail&style=for-the-badge" alt="email to mominbinshahid@gmail.com" /></a> </p>
+
+<p align="left"> <a href="https://MominBinShahid.github.io" target="blank"><img src="https://img.shields.io/static/v1?logo=gatsby&style=for-the-badge&label=website&message=MominBinShahid.github.io&color=663399" alt="link to my website MominBinShahid.github.io" /></a> </p>
 
 <br/>
 <!-- --- -->
@@ -40,4 +47,6 @@
 
 <br/>
 
-<h6>This markdown was initially generated from https://rahuldkjain.github.io/gh-profile-readme-generator/ 👏 </h6>
+
+#### 👏 Thanks to [Canva](https://canva.com) for cover/banner, [Shields.io](https://shields.io) for badges, [SimpleIcons](https://simpleicons.org/) for icons and [rahuldkjain](https://rahuldkjain.github.io/gh-profile-readme-generator/) for github profile generator 🚀
+
