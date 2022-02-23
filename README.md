@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Momin Bin Shahid 👨‍💻</h1>
 <h3 align="center">A curious software engineer ⎔</h3>
 
-![link to MominBinShahid.github.io](./banner-dark.png)
+![link to MominBinShahid.github.io](./banner-dark.png#gh-light-mode-only)
+![link to MominBinShahid.github.io](./banner-light.png#gh-dark-mode-only)
 
 - 🔭 I’m currently working on **a closed-source product known as [Securiti.ai](https://Securiti.ai)**
 
