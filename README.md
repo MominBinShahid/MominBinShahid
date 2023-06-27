@@ -4,9 +4,9 @@
 ![link to MominBinShahid.github.io](./image-dark.png#gh-dark-mode-only)
 ![link to MominBinShahid.github.io](./image-light.png#gh-light-mode-only)
 
-- 🔭 I’m currently working on **a closed-source product known as [Securiti.ai](https://Securiti.ai)**
+- 🔭 I’m currently working on **a closed-source product known as [Chikoo](https://www.getchikoo.com/) App by [Brandverse](https://www.brandver.se/)**
 
-- 🌱 I’m currently learning **how to start contributing in Open Source Softwares, any help in this regard is appreciated**
+- 🌱 I’m currently learning **how to start contributing to Open Source Software, any help in this regard is appreciated**
 
 - 👯 I’m looking to collaborate on **any sort of JavaScript-based projects (for now)**
 
