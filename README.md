@@ -4,7 +4,7 @@
 ![link to MominBinShahid.github.io](./image-dark.png#gh-dark-mode-only)
 ![link to MominBinShahid.github.io](./image-light.png#gh-light-mode-only)
 
-- 🔭 I’m currently working on **a closed-source product known as [Chikoo](https://www.getchikoo.com/) App by [Brandverse](https://www.brandver.se/)**
+- 🔭 I’m currently working on a **closed-source product** known as **[Sastaticket.pk](https://www.sastaticket.pk/)**
 
 - 🌱 I’m currently learning **how to start contributing to Open Source Software, any help in this regard is appreciated**
 
