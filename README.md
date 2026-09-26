@@ -57,6 +57,7 @@ $ open /contact
   <samp>
     Most of what I've built runs in production and isn't on GitHub —
     <a href="https://MominBinShahid.github.io/resume">resume</a> is where it lives.<br>
-    Curious about most things. Employed for some of them.
+    Curious about most things. Employed for some of them.<br>
+    ＠<a href="https://mominbinshahid.github.io/contact/">MominBinShahid</a>
   </samp>
 </p>
